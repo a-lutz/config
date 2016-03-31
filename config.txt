@@ -1,0 +1,7 @@
+# Nautilus prefs
+
+gsettings set org.gnome.nautilus.window-state start-with-location-bar true
+gsettings set org.gnome.nautilus.preferences sort-directories-first true
+gsettings set org.gnome.nautilus.preferences show-hidden-files true
+gsettings set org.gnome.nautilus.preferences enable-delete true
+gsettings set org.gnome.nautilus.preferences default-folder-viewer 'list-view'
